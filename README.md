@@ -1,6 +1,6 @@
-# CWA Assistant — 发布通道
+# AI 方案助手 — 发布通道
 
-CWA Assistant 是一个 Windows 绿色（便携）桌面软件：本地能力包 + 会话管理 + Prompt 拼装，经剪贴板桥接到浏览器中的 DeepSeek 等模型网页使用。
+AI 方案助手 是一个 Windows 绿色（便携）桌面软件：本地能力包 + 会话管理 + 提示词拼装，经剪贴板桥接到浏览器中的 DeepSeek 等模型网页使用。
 
 本仓库是它的更新发布通道，不是源码仓库：`update.json` 为更新清单（版本、SHA-256、镜像链），Releases 提供安装包与便携包。
 
@@ -14,9 +14,9 @@ CWA Assistant 是一个 Windows 绿色（便携）桌面软件：本地能力包
 
 ## 安装与使用
 
-1. 运行 `CWA_Assistant-<版本>-win-x64-Setup.exe`，按提示确认安装位置（默认在用户目录下），完成后桌面出现 CWA Assistant 快捷方式；
+1. 运行 `CWA_Assistant-<版本>-win-x64-Setup.exe`，按提示确认安装位置（默认在用户目录下），完成后桌面出现“AI 方案助手”快捷方式；
 2. 若系统提示"Windows 已保护你的电脑"，点"更多信息 → 仍要运行"；
-3. 按软件内引导使用：绑定浏览器页面 → 输入问题 → 生成 Prompt → 填入浏览器。详见安装目录下的《CWA Assistant 使用手册.pdf》。
+3. 按软件内引导使用：绑定浏览器页面 → 输入问题 → 生成 Prompt → 填入浏览器。详见安装目录下的《CWA_Assistant_使用手册.pdf》。
 
 系统要求：Windows 10 / 11（x64）。安装与卸载都不写注册表：卸载 = 删除安装目录与桌面快捷方式。
 
