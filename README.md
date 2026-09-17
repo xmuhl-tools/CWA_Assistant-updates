@@ -6,6 +6,8 @@ AI 方案助手 是一个 Windows 绿色（便携）桌面软件：本地能力�
 
 > Release 页的 "Source code (zip / tar.gz)" 是 GitHub 自动生成的标签快照（无法关闭），不是安装包；请下载 Assets 区的文件。
 
+当前版本：**v0.2.1.7**（build 7），更新内容见对应 Release 说明。
+
 ## 下载
 
 - **安装版（推荐）**：`CWA_Assistant-<版本>-win-x64-Setup.exe` —— 双击安装，桌面自动创建快捷方式
