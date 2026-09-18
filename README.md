@@ -2,15 +2,15 @@
 
 更新发布通道：更新清单 + Windows x64 下载包（CWA_Assistant）。
 
-- 当前版本：**0.2.1.8**（build 8）
-- 最近更新：安装包改进：卸载时会询问是否连同用户数据（配置、会话记录与日志）一起删除，默认保留；静默/自动化卸载可用 /DELETEUSERDATA 参数直接删除。程序功能无变化。
+- 当前版本：**0.2.1.9**（build 9）
+- 最近更新：提示词预览区重做：预览可直接编辑并作为发送/复制的内容源；新增【复制提示词】与【保存提示词】（可存为 Markdown 文档，供有输入字数限制的本地大模型工具以文件方式提交）；生成不再带出此前问过的问题；提示词自动附带允许跳过无法确认问题的规则。
 
 ## 下载
 
 | 用途 | 文件 |
 |---|---|
-| 首次安装（推荐，双击即装） | [CWA_Assistant-0.2.1.8-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.8/CWA_Assistant-0.2.1.8-win-x64-Setup.exe) |
-| 便携版 / 自动更新载荷 | [CWA_Assistant-0.2.1.8-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.8/CWA_Assistant-0.2.1.8-win-x64.zip) |
+| 首次安装（推荐，双击即装） | [CWA_Assistant-0.2.1.9-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.9/CWA_Assistant-0.2.1.9-win-x64-Setup.exe) |
+| 便携版 / 自动更新载荷 | [CWA_Assistant-0.2.1.9-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.9/CWA_Assistant-0.2.1.9-win-x64.zip) |
 
 ## 安装与使用
 
@@ -21,10 +21,10 @@
 ## 校验（sha256）
 
 ```text
-CWA_Assistant-0.2.1.8-win-x64.zip
-  cee9b68787b78291bd7dc2fef48ee9e1b0d2489dccaca4903f98a564103ef370
-CWA_Assistant-0.2.1.8-win-x64-Setup.exe
-  0d297fab548beabd2984e365d60b53f12d1ec6704569cc08f20492b78e4e180f
+CWA_Assistant-0.2.1.9-win-x64.zip
+  f7fb2aefcaf0e83a91bebc37b2cb88465ea59dd009a77f44a4fcefacbd26a042
+CWA_Assistant-0.2.1.9-win-x64-Setup.exe
+  19e40d75f685c5b32231cba79a7652207e08d3b96d66fab7e5a7eec0cd78e69d
 ```
 
 ## 自动更新
