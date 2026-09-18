@@ -1,13 +1,14 @@
 {
   "product": "CWA_Assistant",
-  "version": "0.2.1.7",
-  "build": 7,
-  "notes": "本次更新主要为新用户更换安装体验：安装包改用图形向导式安装器，可浏览选择安装目录，支持在系统的应用和功能里一键卸载。已安装用户更新后功能不变，仅版本号推进；如需体验新安装器，可到发布页重新下载安装包。",
-  "asset": "CWA_Assistant-0.2.1.7-win-x64.zip",
-  "sha256": "d681f19db8e9e032be871b0533ea94e7f6470b626757ceb75a1da76d93c93d6c",
+  "version": "0.2.1.8",
+  "build": 8,
+  "notes": "安装包改进：卸载时会询问是否连同用户数据（配置、会话记录与日志）一起删除，默认保留；静默/自动化卸载可用 /DELETEUSERDATA 参数直接删除。程序功能无变化。",
+  "asset": "CWA_Assistant-0.2.1.8-win-x64.zip",
+  "sha256": "cee9b68787b78291bd7dc2fef48ee9e1b0d2489dccaca4903f98a564103ef370",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.2.1.7/CWA_Assistant-0.2.1.7-win-x64.zip",
-    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.7/CWA_Assistant-0.2.1.7-win-x64.zip",
-    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.7/CWA_Assistant-0.2.1.7-win-x64.zip"
-  ]
+    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.2.1.8/CWA_Assistant-0.2.1.8-win-x64.zip",
+    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.8/CWA_Assistant-0.2.1.8-win-x64.zip",
+    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.8/CWA_Assistant-0.2.1.8-win-x64.zip"
+  ],
+  "size": 1827892
 }
