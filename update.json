@@ -1,14 +1,14 @@
 {
   "product": "CWA_Assistant",
-  "version": "0.2.1.12",
-  "build": 12,
-  "notes": "面向普通用户的上手改造：主界面新增一句话产品定位与【示例】下拉（日常 6 例 + 项目 3 例，点一下自动填入照着改）；【会话】改名【存档线】并在下拉里直接显示每条线已存的成果数；切换或启动时预览区直接显示这条线的本地记录；任务类型改为用户语言（自动判断（推荐）/做个小工具/做套流程/出套方案/学套方法）；帮助窗口重写并新增两个按钮可直接打开随包的两本手册；修复帮助窗口文字被按钮遮挡、更新弹窗缺少当前版本号等问题。快速上手引导只在首次使用时出现。",
-  "asset": "CWA_Assistant-0.2.1.12-win-x64.zip",
-  "sha256": "edf593f64ec8d4c50530792e11f0058cd4a8d2f0f34911d1e275c49ace060587",
+  "version": "0.2.1.13",
+  "build": 13,
+  "notes": "说明文档全面复核修订：《使用手册》修正入门手册案例数（7 处改为 9）、目标窗口未绑定状态描述、存档线视图内容说明、目录结构补全图解入门手册、卸载与故障排查措辞等 8 处；《AI方案助手_图解入门》全部截图按 0.2.1.13 实机重新采集；仓库 README 同步修订（安装器注册表行为说明、设置项列表、存档线叫法统一等）。程序功能本身无变化。",
+  "asset": "CWA_Assistant-0.2.1.13-win-x64.zip",
+  "sha256": "1a50af76aca098111dcee3dd6217d662639be6e756d8f9920d5e688b87733c7e",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.2.1.12/CWA_Assistant-0.2.1.12-win-x64.zip",
-    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.12/CWA_Assistant-0.2.1.12-win-x64.zip",
-    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.12/CWA_Assistant-0.2.1.12-win-x64.zip"
+    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.2.1.13/CWA_Assistant-0.2.1.13-win-x64.zip",
+    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.13/CWA_Assistant-0.2.1.13-win-x64.zip",
+    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.13/CWA_Assistant-0.2.1.13-win-x64.zip"
   ],
-  "size": 3389310
+  "size": 3282830
 }
