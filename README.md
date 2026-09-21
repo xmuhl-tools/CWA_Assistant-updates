@@ -2,15 +2,15 @@
 
 更新发布通道：更新清单 + Windows x64 下载包（CWA_Assistant）。
 
-- 当前版本：**0.2.1.13**（build 13）
-- 最近更新：说明文档全面复核修订：《使用手册》修正入门手册案例数（7 处改为 9）、目标窗口未绑定状态描述、存档线视图内容说明、目录结构补全图解入门手册、卸载与故障排查措辞等 8 处；《AI方案助手_图解入门》全部截图按 0.2.1.13 实机重新采集；仓库 README 同步修订（安装器注册表行为说明、设置项列表、存档线叫法统一等）。程序功能本身无变化。
+- 当前版本：**0.2.1.14**（build 14）
+- 最近更新：修复自动更新下载偶发挂死（家族性缺陷）：下载读循环新增停滞中止保护——任一下载源 15 秒无字节进展即放弃并换下一源（原实现仅依赖 WinHTTP 逐操作超时，代理"涓流"喂字节时可无限挂死，界面永远停在"正在下载更新"）；程序功能本身无变化。
 
 ## 下载
 
 | 用途 | 文件 |
 |---|---|
-| 首次安装（推荐，双击即装） | [CWA_Assistant-0.2.1.13-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.13/CWA_Assistant-0.2.1.13-win-x64-Setup.exe) |
-| 便携版 / 自动更新载荷 | [CWA_Assistant-0.2.1.13-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.13/CWA_Assistant-0.2.1.13-win-x64.zip) |
+| 首次安装（推荐，双击即装） | [CWA_Assistant-0.2.1.14-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.14/CWA_Assistant-0.2.1.14-win-x64-Setup.exe) |
+| 便携版 / 自动更新载荷 | [CWA_Assistant-0.2.1.14-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.2.1.14/CWA_Assistant-0.2.1.14-win-x64.zip) |
 
 ## 安装与使用
 
@@ -21,10 +21,10 @@
 ## 校验（sha256）
 
 ```text
-CWA_Assistant-0.2.1.13-win-x64.zip
-  1a50af76aca098111dcee3dd6217d662639be6e756d8f9920d5e688b87733c7e
-CWA_Assistant-0.2.1.13-win-x64-Setup.exe
-  64fc08ca740d74bc8d31d304b4334bd1ec65cb1b94948051bcef757f21865d2b
+CWA_Assistant-0.2.1.14-win-x64.zip
+  18b9dbaa51193f6bc7ccfce9ca97e17efc7060d6874e585958c2e20f4bf5d545
+CWA_Assistant-0.2.1.14-win-x64-Setup.exe
+  095c1cdf5671c79e6daf6cfa59c1938eac27166327732e2961e8bbcd58e60ca1
 ```
 
 ## 自动更新
