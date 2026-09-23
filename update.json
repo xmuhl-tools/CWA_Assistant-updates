@@ -1,14 +1,14 @@
 {
   "product": "CWA_Assistant",
-  "version": "0.3.1",
-  "build": 16,
-  "notes": "版本 v0.3.1（build 16）——人工验收三项修订：更新弹窗更清爽、【帮助】按钮归位、示例回归一句话。",
-  "asset": "CWA_Assistant-0.3.1-win-x64.zip",
-  "sha256": "cf4ac80280fd4ebc052a525d73b497539d3481c5a45f7e8ca085076117772019",
+  "version": "0.3.2",
+  "build": 17,
+  "notes": "版本 v0.3.2（build 17）——人工验收三项修订：更新弹窗更清爽、【帮助】按钮归位、示例回归一句话。",
+  "asset": "CWA_Assistant-0.3.2-win-x64.zip",
+  "sha256": "dbd87ea7e6f0b1a391bf4b0f26fec8d28eda7d282c076b7511b76d02c3e157cb",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.3.1/CWA_Assistant-0.3.1-win-x64.zip",
-    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.1/CWA_Assistant-0.3.1-win-x64.zip",
-    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.1/CWA_Assistant-0.3.1-win-x64.zip"
+    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.3.2/CWA_Assistant-0.3.2-win-x64.zip",
+    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.2/CWA_Assistant-0.3.2-win-x64.zip",
+    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.2/CWA_Assistant-0.3.2-win-x64.zip"
   ],
-  "size": 3265203
+  "size": 3227879
 }
