@@ -1,14 +1,14 @@
 {
   "product": "CWA_Assistant",
-  "version": "0.3.4",
-  "build": 19,
-  "notes": "版本 v0.3.4（build 19）——修复\"程序开着时切换分辨率，主窗口不再自适应\"的问题。",
-  "asset": "CWA_Assistant-0.3.4-win-x64.zip",
-  "sha256": "b36052d6a39a135c0f0bf39c0347afc78e50d5dc39212de429058946e5721bae",
+  "version": "0.3.5",
+  "build": 20,
+  "notes": "版本 v0.3.5（build 20）— Kimi 自动发送补发与跨网址存档线隔离",
+  "asset": "CWA_Assistant-0.3.5-win-x64.zip",
+  "sha256": "b6a44a5462915600073ff6a68324f4a837eab447f70e19bd9e5f1eb6644a8c83",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.3.4/CWA_Assistant-0.3.4-win-x64.zip",
-    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.4/CWA_Assistant-0.3.4-win-x64.zip",
-    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.4/CWA_Assistant-0.3.4-win-x64.zip"
+    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.3.5/CWA_Assistant-0.3.5-win-x64.zip",
+    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.5/CWA_Assistant-0.3.5-win-x64.zip",
+    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.5/CWA_Assistant-0.3.5-win-x64.zip"
   ],
-  "size": 3142055
+  "size": 3247034
 }

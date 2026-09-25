@@ -2,15 +2,15 @@
 
 更新发布通道：更新清单 + Windows x64 下载包（CWA_Assistant）。
 
-- 当前版本：**0.3.4**（build 19）
-- 最近更新：版本 v0.3.4（build 19）——修复"程序开着时切换分辨率，主窗口不再自适应"的问题。
+- 当前版本：**0.3.5**（build 20）
+- 最近更新：版本 v0.3.5（build 20）— Kimi 自动发送补发与跨网址存档线隔离
 
 ## 下载
 
 | 用途 | 文件 |
 |---|---|
-| 首次安装（推荐，双击即装） | [CWA_Assistant-0.3.4-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.4/CWA_Assistant-0.3.4-win-x64-Setup.exe) |
-| 便携版 / 自动更新载荷 | [CWA_Assistant-0.3.4-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.4/CWA_Assistant-0.3.4-win-x64.zip) |
+| 首次安装（推荐，双击即装） | [CWA_Assistant-0.3.5-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.5/CWA_Assistant-0.3.5-win-x64-Setup.exe) |
+| 便携版 / 自动更新载荷 | [CWA_Assistant-0.3.5-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.5/CWA_Assistant-0.3.5-win-x64.zip) |
 
 ## 安装与使用
 
@@ -21,10 +21,10 @@
 ## 校验（sha256）
 
 ```text
-CWA_Assistant-0.3.4-win-x64.zip
-  b36052d6a39a135c0f0bf39c0347afc78e50d5dc39212de429058946e5721bae
-CWA_Assistant-0.3.4-win-x64-Setup.exe
-  333332ca21491217fbde08bffaf0d8b278154175777ae3c439a009e421e547f2
+CWA_Assistant-0.3.5-win-x64.zip
+  b6a44a5462915600073ff6a68324f4a837eab447f70e19bd9e5f1eb6644a8c83
+CWA_Assistant-0.3.5-win-x64-Setup.exe
+  2757d0aac085e0d6c8b1ba403380106dc0cd778c7df4de85afab03b2c08d0c08
 ```
 
 ## 自动更新
@@ -33,4 +33,4 @@ CWA_Assistant-0.3.4-win-x64-Setup.exe
 按 build 号比较；发现新版本时提示下载，校验 sha256 后自动替换并重启。手动检查入口在程序主界面。
 
 ---
-本文件由发布流程自动生成/更新（portable-app-release 技能，2026-09-24），请勿手工改动。
+本文件由发布流程自动生成/更新（portable-app-release 技能，2026-09-25），请勿手工改动。
