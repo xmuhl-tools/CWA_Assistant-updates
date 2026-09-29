@@ -2,15 +2,15 @@
 
 更新发布通道：更新清单 + Windows x64 下载包（CWA_Assistant）。
 
-- 当前版本：**0.3.7**（build 22）
-- 最近更新：版本 v0.3.7（build 22）— 修复「换了新需求却被模型当成续做」：新增「沿用本线已有成果」开关，默认按独立新任务生成；产品显示名改为「问明白」；主窗口按钮全部可键盘 Tab；发布链补签名密钥预检。
+- 当前版本：**0.4.0**（build 23）
+- 最近更新：版本 v0.4.0（build 23）— 去掉一个用不上的【类型】选项，示例下拉会帮你自动切类型；另修复一个会毁掉存档记录的严重缺陷。
 
 ## 下载
 
 | 用途 | 文件 |
 |---|---|
-| 首次安装（推荐，双击即装） | [CWA_Assistant-0.3.7-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.7/CWA_Assistant-0.3.7-win-x64-Setup.exe) |
-| 便携版 / 自动更新载荷 | [CWA_Assistant-0.3.7-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.3.7/CWA_Assistant-0.3.7-win-x64.zip) |
+| 首次安装（推荐，双击即装） | [CWA_Assistant-0.4.0-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.0/CWA_Assistant-0.4.0-win-x64-Setup.exe) |
+| 便携版 / 自动更新载荷 | [CWA_Assistant-0.4.0-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.0/CWA_Assistant-0.4.0-win-x64.zip) |
 
 ## 安装与使用
 
@@ -21,10 +21,10 @@
 ## 校验（sha256）
 
 ```text
-CWA_Assistant-0.3.7-win-x64.zip
-  ca9d13f6390b8326555dfe8f5e999e2c0f95dae9250fbd689035ca99a1204024
-CWA_Assistant-0.3.7-win-x64-Setup.exe
-  0141393a43b6ba27729c07a73fe96c3f6c3ee22d23fffaf250303c1d8c76ceb6
+CWA_Assistant-0.4.0-win-x64.zip
+  e01c7942b8922806a4c29415e0dfee238b1882cb99706f93bea14d0855cf8462
+CWA_Assistant-0.4.0-win-x64-Setup.exe
+  4129b0e28174f44146cdca84e07c8e3f1ca236e4587162de263781d41ac10641
 ```
 
 ## 自动更新
@@ -33,4 +33,4 @@ CWA_Assistant-0.3.7-win-x64-Setup.exe
 按 build 号比较；发现新版本时提示下载，校验 sha256 后自动替换并重启。手动检查入口在程序主界面。
 
 ---
-本文件由发布流程自动生成/更新（portable-app-release 技能，2026-09-28），请勿手工改动。
+本文件由发布流程自动生成/更新（portable-app-release 技能，2026-09-29），请勿手工改动。
