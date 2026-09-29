@@ -2,15 +2,15 @@
 
 更新发布通道：更新清单 + Windows x64 下载包（CWA_Assistant）。
 
-- 当前版本：**0.4.0**（build 23）
-- 最近更新：版本 v0.4.0（build 23）— 去掉一个用不上的【类型】选项，示例下拉会帮你自动切类型；另修复一个会毁掉存档记录的严重缺陷。
+- 当前版本：**0.4.1**（build 24）
+- 最近更新：版本 v0.4.1（build 24）— 两处修正：【类型】第一项改名为「帮我问清楚」；修掉一个老用户才会遇到的启动默认值错位。
 
 ## 下载
 
 | 用途 | 文件 |
 |---|---|
-| 首次安装（推荐，双击即装） | [CWA_Assistant-0.4.0-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.0/CWA_Assistant-0.4.0-win-x64-Setup.exe) |
-| 便携版 / 自动更新载荷 | [CWA_Assistant-0.4.0-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.0/CWA_Assistant-0.4.0-win-x64.zip) |
+| 首次安装（推荐，双击即装） | [CWA_Assistant-0.4.1-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.1/CWA_Assistant-0.4.1-win-x64-Setup.exe) |
+| 便携版 / 自动更新载荷 | [CWA_Assistant-0.4.1-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.1/CWA_Assistant-0.4.1-win-x64.zip) |
 
 ## 安装与使用
 
@@ -21,10 +21,10 @@
 ## 校验（sha256）
 
 ```text
-CWA_Assistant-0.4.0-win-x64.zip
-  e01c7942b8922806a4c29415e0dfee238b1882cb99706f93bea14d0855cf8462
-CWA_Assistant-0.4.0-win-x64-Setup.exe
-  4129b0e28174f44146cdca84e07c8e3f1ca236e4587162de263781d41ac10641
+CWA_Assistant-0.4.1-win-x64.zip
+  73058f5010b6516a97b2a45981e0d8c6fddbdcb295432181ad26cb574621d032
+CWA_Assistant-0.4.1-win-x64-Setup.exe
+  06b872fdcebee69bd4c4edd6440bb7c7dfb3b633448cea95c9a97bdffd0f4a41
 ```
 
 ## 自动更新
