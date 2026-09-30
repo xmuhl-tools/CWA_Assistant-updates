@@ -1,14 +1,14 @@
 {
   "product": "CWA_Assistant",
-  "version": "0.4.1",
-  "build": 24,
-  "notes": "版本 v0.4.1（build 24）— 两处修正：【类型】第一项改名为「帮我问清楚」；修掉一个老用户才会遇到的启动默认值错位。",
-  "asset": "CWA_Assistant-0.4.1-win-x64.zip",
-  "sha256": "73058f5010b6516a97b2a45981e0d8c6fddbdcb295432181ad26cb574621d032",
+  "version": "0.4.2",
+  "build": 25,
+  "notes": "版本 v0.4.2（build 25）— 全量复核修正版：帮助窗口文字排版、状态栏提示被截断、老用户存档线兼容等一批问题修正，内置做事规则同步升级。",
+  "asset": "CWA_Assistant-0.4.2-win-x64.zip",
+  "sha256": "83fa11d54ce1598b2c447df5171e0504f6c00c05bbce9da8f53a03718618919b",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.4.1/CWA_Assistant-0.4.1-win-x64.zip",
-    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.1/CWA_Assistant-0.4.1-win-x64.zip",
-    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.1/CWA_Assistant-0.4.1-win-x64.zip"
+    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.4.2/CWA_Assistant-0.4.2-win-x64.zip",
+    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.2/CWA_Assistant-0.4.2-win-x64.zip",
+    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.2/CWA_Assistant-0.4.2-win-x64.zip"
   ],
-  "size": 3398336
+  "size": 3456559
 }
