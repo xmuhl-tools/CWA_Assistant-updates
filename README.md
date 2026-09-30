@@ -2,15 +2,15 @@
 
 更新发布通道：更新清单 + Windows x64 下载包（CWA_Assistant）。
 
-- 当前版本：**0.4.2**（build 25）
-- 最近更新：版本 v0.4.2（build 25）— 全量复核修正版：帮助窗口文字排版、状态栏提示被截断、老用户存档线兼容等一批问题修正，内置做事规则同步升级。
+- 当前版本：**0.4.3**（build 26）
+- 最近更新：版本 v0.4.3（build 26）— 自动发送修复版：长提问被网页转成附件上传时不再"发了没反应"，使用帮助窗口改成"左选问题、右看说明"。
 
 ## 下载
 
 | 用途 | 文件 |
 |---|---|
-| 首次安装（推荐，双击即装） | [CWA_Assistant-0.4.2-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.2/CWA_Assistant-0.4.2-win-x64-Setup.exe) |
-| 便携版 / 自动更新载荷 | [CWA_Assistant-0.4.2-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.2/CWA_Assistant-0.4.2-win-x64.zip) |
+| 首次安装（推荐，双击即装） | [CWA_Assistant-0.4.3-win-x64-Setup.exe](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.3/CWA_Assistant-0.4.3-win-x64-Setup.exe) |
+| 便携版 / 自动更新载荷 | [CWA_Assistant-0.4.3-win-x64.zip](https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.3/CWA_Assistant-0.4.3-win-x64.zip) |
 
 ## 安装与使用
 
@@ -21,10 +21,10 @@
 ## 校验（sha256）
 
 ```text
-CWA_Assistant-0.4.2-win-x64.zip
-  83fa11d54ce1598b2c447df5171e0504f6c00c05bbce9da8f53a03718618919b
-CWA_Assistant-0.4.2-win-x64-Setup.exe
-  6b9e0a8c7b4041d1b78db5c2528537815ee674bc33a3b7f4b74389b48b664f97
+CWA_Assistant-0.4.3-win-x64.zip
+  5c7fdd6e4d44bc96821a337ddce8df593bad841cb9b1680edb9e67d4d31ff691
+CWA_Assistant-0.4.3-win-x64-Setup.exe
+  a76e5bad6898dddf464a023e368cb4bf0579efe292dad63abebecf72e8b60898
 ```
 
 ## 自动更新
