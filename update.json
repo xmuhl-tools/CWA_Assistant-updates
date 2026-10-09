@@ -1,14 +1,14 @@
 {
   "product": "CWA_Assistant",
-  "version": "0.4.4",
-  "build": 27,
-  "notes": "版本 v0.4.4（build 27）— 示例增强 + 发送更可靠版：手上有现成的范本（截图、Word/PDF 模板、别人的方案）时，新增的示例会让模型先把它拆解清楚、你确认后再照着做一份；同时修复了“点过网页开关后自动发送落空”的问题。",
-  "asset": "CWA_Assistant-0.4.4-win-x64.zip",
-  "sha256": "2050431d6fd8de6401ffaad7ecc564ca53b023f1c16adf75592bcd9ccb3b2cc1",
+  "version": "0.4.5",
+  "build": 28,
+  "notes": "版本 v0.4.5（build 28）— 提问有效性与网页下一步指引修订版：改了需求之后旧提问不会再被发出去、载入既有记录时类型会跟着恢复、填入网页前会再次确认目标窗口还是不是它、更新过程中点取消不会再走进安装确认，另把「存成的提问文件怎么交给网页模型」说清楚了。",
+  "asset": "CWA_Assistant-0.4.5-win-x64.zip",
+  "sha256": "f4a78309d11636cfc5f00e58bbb3b2c47e03f8706b240db366e0be735665ce9a",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.4.4/CWA_Assistant-0.4.4-win-x64.zip",
-    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.4/CWA_Assistant-0.4.4-win-x64.zip",
-    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.4/CWA_Assistant-0.4.4-win-x64.zip"
+    "https://cdn.jsdelivr.net/gh/xmuhl-tools/CWA_Assistant-updates@v0.4.5/CWA_Assistant-0.4.5-win-x64.zip",
+    "https://ghfast.top/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.5/CWA_Assistant-0.4.5-win-x64.zip",
+    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/CWA_Assistant-updates/releases/download/v0.4.5/CWA_Assistant-0.4.5-win-x64.zip"
   ],
-  "size": 3513482
+  "size": 3519282
 }
